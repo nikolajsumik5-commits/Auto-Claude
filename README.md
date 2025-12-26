@@ -141,7 +141,7 @@ For contributors and development:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AndyMik90/Auto-Claude.git
+git увыclone https://github.com/AndyMik90/Auto-Claude.git
 cd Auto-Claude
 
 # Install all dependencies
